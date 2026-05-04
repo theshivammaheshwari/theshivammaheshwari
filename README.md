@@ -33,95 +33,229 @@ class ShivamMaheshwari:
         self.current     = "Researching Deep Learning for Alzheimer's Detection 🧠"
         self.languages   = ["Python", "Java", "JavaScript", "SQL", "Bash"]
         self.passion     = ["AI/ML", "Automation", "Cybersecurity", "Research"]
-    
+
     def say_hi(self):
         print("Thanks for stopping by! Let's build something awesome 🚀")
 
 me = ShivamMaheshwari()
 me.say_hi()
+```
 
-🛠️ Tech Arsenal
-🤖 AI / Machine Learning
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-EB1C24?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </p>
-🧪 QA & Automation Testing
-<p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> </p>
-🌐 Networking & Security
-<p> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
-🛠️ DevOps & Tools
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/ServiceNow-009639?style=for-the-badge&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
-💼 Professional Journey
-<table> <tr> <td width="50%">
-🏛️ LNMIIT
-Technical Superintendent (09/2014 – Present)
+---
 
-🔐 Led IT infra for 1000+ users with Zero Trust model
-⚡ Maintained 99% uptime across the network
-🤖 Automated workflows reducing processing time by 25%
-📊 Optimized SQL queries — 30% faster data retrieval
-</td> <td width="50%">
-🌍 Zentity a.s. (Remote)
-Infrastructure & Support Engineer (2022 – 2024)
+## 🛠️ Tech Arsenal
 
-🐍 Python/Bash scripts cut manual effort by 30%
-🔍 Resolved 150+ critical incidents via Zabbix
-📉 Reduced system downtime by 25%
-🛠️ Handled 120+ tickets/month at 99% uptime
-</td> </tr> </table>
-🚀 Featured Projects
-<details open> <summary><b>🧠 Deep Learning for Early Alzheimer's Detection</b></summary>
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-EB1C24?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🧪 QA & Automation Testing
+
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+### 🌐 Networking & Security
+
+<p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🛠️ DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ServiceNow-009639?style=for-the-badge&logo=servicenow&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 💼 Professional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ LNMIIT
+**Technical Superintendent** *(09/2014 – Present)*
+
+- 🔐 Led IT infra for 1000+ users with Zero Trust model
+- ⚡ Maintained 99% uptime across the network
+- 🤖 Automated workflows reducing processing time by 25%
+- 📊 Optimized SQL queries — 30% faster data retrieval
+
+</td>
+<td width="50%">
+
+### 🌍 Zentity a.s. (Remote)
+**Infrastructure & Support Engineer** *(2022 – 2024)*
+
+- 🐍 Python/Bash scripts cut manual effort by 30%
+- 🔍 Resolved 150+ critical incidents via Zabbix
+- 📉 Reduced system downtime by 25%
+- 🛠️ Handled 120+ tickets/month at 99% uptime
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🧠 Deep Learning for Early Alzheimer's Detection</b></summary>
+<br>
 CNN-based model for MRI image classification — distinguishes Normal, MCI & Alzheimer's stages.
 
-Stack: Python TensorFlow Keras OpenCV Scikit-learn
-
-</details> <details> <summary><b>🔒 Enterprise Network Security & Monitoring</b></summary>
-Deployed IDS + pfSense firewall rules to harden enterprise security and block unauthorized access.
-
-Stack: Wireshark pfSense Zabbix Linux
-
-</details> <details> <summary><b>✋ PC Application Control via Air Gestures (IIT Kanpur)</b></summary>
-Hand-gesture controlled computer interaction — boosted accessibility by 30%.
-
-Stack: Python OpenCV Arduino
-
-</details> <details> <summary><b>📊 COVID-19 Race Graph Visualization</b></summary>
-Interactive D3.js dashboard tracking global COVID-19 cases — 50% higher engagement.
-
-Stack: D3.js JavaScript HTML/CSS
-
-</details> <details> <summary><b>✈️ Trip Cost Calculator</b></summary>
-React-based intranet utility for travel cost estimation and team collaboration.
-
-Stack: React.js Vite Tailwind CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </details>
-🎓 Education & Certifications
-<table> <tr> <td>
-📚 Academic
-🎯 Ph.D. Computer Science (LNMIIT, Ongoing)
-🎓 M.Tech CS — 79.61% (LNMIIT)
-🎓 B.Tech IT — 72.33% (Govt. Engg. College, Bikaner)
-</td> <td>
-📜 Certifications
-🏅 Google — Technical Support Fundamentals
-🏅 CDAC Mohali — Network Security Engineering
-🏅 IIT Kanpur — IoT & Python
-🏅 ECB — Linux & Network Security
-🏅 NIIT — Data Structures & Algorithms
-</td> </tr> </table>
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=theshivammaheshwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=theshivammaheshwari&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshivammaheshwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshivammaheshwari&theme=tokyo-night&hide_border=true" /> </div>
-🏆 Achievements
-🌟 Outstanding Performance Award — LNMIIT (Foundation Days: 15th, 16th, 17th & 21st)
-🎖️ NCC 'B' & 'C' Certification — National Cadet Corps (2012-2014)
-🐍 Contribution Snake
+
+<details>
+<summary><b>🔒 Enterprise Network Security & Monitoring</b></summary>
+<br>
+Deployed IDS + pfSense firewall rules to harden enterprise security and block unauthorized access.
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>✋ PC Application Control via Air Gestures (IIT Kanpur)</b></summary>
+<br>
+Hand-gesture controlled computer interaction — boosted accessibility by 30%.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📊 COVID-19 Race Graph Visualization</b></summary>
+<br>
+Interactive D3.js dashboard tracking global COVID-19 cases — 50% higher engagement.
+
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>✈️ Trip Cost Calculator</b></summary>
+<br>
+React-based intranet utility for travel cost estimation and team collaboration.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</details>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Academic
+
+- 🎯 **Ph.D. Computer Science** *(LNMIIT, Ongoing)*
+- 🎓 **M.Tech CS** — 79.61% *(LNMIIT)*
+- 🎓 **B.Tech IT** — 72.33% *(Govt. Engg. College, Bikaner)*
+
+</td>
+<td width="50%">
+
+### 📜 Certifications
+
+- 🏅 **Google** — Technical Support Fundamentals
+- 🏅 **CDAC Mohali** — Network Security Engineering
+- 🏅 **IIT Kanpur** — IoT & Python
+- 🏅 **ECB** — Linux & Network Security
+- 🏅 **NIIT** — Data Structures & Algorithms
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-Snake animation
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=theshivammaheshwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=theshivammaheshwari&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshivammaheshwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theshivammaheshwari&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+- 🌟 **Outstanding Performance Award** — LNMIIT *(Foundation Days: 15th, 16th, 17th & 21st)*
+- 🎖️ **NCC 'B' & 'C' Certification** — National Cadet Corps *(2012–2014)*
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-💬 Let's Connect & Build Something Amazing!
-"Code, Automate, Secure, Repeat." ⚡
 
-⭐ From theshivammaheshwari — If you like my work, drop a star!
+![Snake animation](https://github.com/theshivammaheshwari/theshivammaheshwari/blob/output/github-contribution-grid-snake-dark.svg)
 
-</div> ```
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+*"Code, Automate, Secure, Repeat."* ⚡
+
+⭐ From [theshivammaheshwari](https://github.com/theshivammaheshwari) — If you like my work, drop a star!
+
+</div>
