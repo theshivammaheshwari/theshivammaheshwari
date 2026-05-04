@@ -1,18 +1,28 @@
-🚀 Shivam Maheshwari
-<div align="center">
-🤖 Machine Learning Engineer | 🧪 QA Automation Expert | 🌐 Network Engineer
-Typing SVG
+# 🚀 Shivam Maheshwari
 
-<p> <a href="https://shivamresume-navy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://linkedin.com/in/shivamtensor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/shivamtensor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:shivamtensor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
-Profile Views
-Followers
+<div align="center">
+
+### 🤖 Machine Learning Engineer | 🧪 QA Automation Expert | 🌐 Network Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Deep+Learning+Researcher+%F0%9F%A7%A0;QA+Automation+Specialist+%E2%9A%A1;Network+Security+Expert+%F0%9F%94%92;PhD+Candidate+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<p>
+<a href="https://shivamresume-navy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shivamtensor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/theshivammaheshwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:shivamtensor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=theshivammaheshwari&label=Profile%20Views&color=00d9ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/theshivammaheshwari?label=Followers&style=for-the-badge&color=00d9ff)
 
 </div>
-🧑‍💻 About Me
-python
-Run Code
 
-Copy code
+---
+
+## 🧑‍💻 About Me
+
+```python
 class ShivamMaheshwari:
     def __init__(self):
         self.name        = "Shivam Maheshwari"
@@ -29,7 +39,6 @@ class ShivamMaheshwari:
 
 me = ShivamMaheshwari()
 me.say_hi()
-
 
 🛠️ Tech Arsenal
 🤖 AI / Machine Learning
@@ -100,7 +109,7 @@ Stack: React.js Vite Tailwind CSS
 🏅 NIIT — Data Structures & Algorithms
 </td> </tr> </table>
 📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivamtensor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamtensor&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtensor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamtensor&theme=tokyo-night&hide_border=true" /> </div>
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=theshivammaheshwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=theshivammaheshwari&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshivammaheshwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshivammaheshwari&theme=tokyo-night&hide_border=true" /> </div>
 🏆 Achievements
 🌟 Outstanding Performance Award — LNMIIT (Foundation Days: 15th, 16th, 17th & 21st)
 🎖️ NCC 'B' & 'C' Certification — National Cadet Corps (2012-2014)
@@ -113,11 +122,6 @@ Snake animation
 💬 Let's Connect & Build Something Amazing!
 "Code, Automate, Secure, Repeat." ⚡
 
-⭐ From shivamtensor — If you like my work, drop a star!
+⭐ From theshivammaheshwari — If you like my work, drop a star!
 
-</div>
-📌 Setup Tips
-Save this as README.md in a repo named shivamtensor (same as your username)
-For the 🐍 Snake animation, add this GitHub Action: Platane/snk
-Replace placeholder badges if any URLs change
-Push and watch your profile shine ✨
+</div> ```
